@@ -10,3 +10,6 @@ now complited
 reabase is onother merge stategy
 devoloping still
 now development is complitd
+
+### squash
+starteed devolopment
