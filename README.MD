@@ -12,7 +12,7 @@ devoloping still
 now development is complited
 
 ### squash
-starteed devolopment
+started devolopment
 adding more code
 still adding code
 now it is complite
