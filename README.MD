@@ -9,7 +9,7 @@ now complited
 ### REBASE
 reabase is onother merge stategy
 devoloping still
-now development is complitd
+now development is complited
 
 ### squash
 starteed devolopment
