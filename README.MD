@@ -5,3 +5,6 @@ this is the first commit from main branch
 developer is doing some devlopment
 developer spend some time and pushes to  git 
 now complited
+
+### REBASE
+reabase is onother merge stategy
